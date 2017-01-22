@@ -1,5 +1,5 @@
 Name:           xtrlock
-Version:	2.3
+Version:	2.8
 Release:	1
 License:	GPL-3
 Summary:	A simplistic screen locking program for X
